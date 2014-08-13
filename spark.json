@@ -1,0 +1,7 @@
+{
+  "name": "jsonlite",
+  "author": "Andrii Mamchur <andrii@mamchur.net>",
+  "license": "Apache License, Version 2.0",
+  "version": "1.1.0",
+  "description": "High performance and low memory footprint C/Objective-C JSON parser for mobile/embedded systems"
+}
