@@ -1,4 +1,4 @@
-### Introduction to jsonlite
+### Introduction to jsonlite-sparkcore
 
 * [What is jsonlite and JsonLite ObjC?](#what-is-jsonlite-and-jsonlite-objc)
 * [Design Overview](#design-principles)
@@ -8,7 +8,7 @@
 
 #### What is jsonlite and JsonLite ObjC
 
-jsonlite is JSON [tokenizer](http://en.wikipedia.org/wiki/Tokenization). It's lightweight C library that can be used for low-level JSON processing or parser development.
+jsonlite-sparkcore is JSON [tokenizer](http://en.wikipedia.org/wiki/Tokenization) packaged to be sparkcore compatible from Andrii Mamchur's [jsonline](https://github.com/amamchur/jsonlite). It's lightweight C library that can be used for low-level JSON processing or parser development.
 
 JsonLite for Objective-C is JSON parser base on jsonlite. It's the [high performance](https://github.com/amamchur/iJSONBenchmark) and flexible JSON parser for Objective-C.
 You may use JsonLiteObj instead of <a href="http://developer.apple.com/library/ios/#documentation/Foundation/Reference/NSJSONSerialization_Class/Reference/Reference.html">NSJSONSerialization</a>
@@ -73,8 +73,6 @@ And now is your turn, you may:
 * 100% Branch coverage.
 
 See [Code coverage configuration](https://github.com/amamchur/jsonlite/wiki/Code-coverage-configuration)
-
-![Image](../master/tests/cov.png?raw=true)
 
 #### License
 
