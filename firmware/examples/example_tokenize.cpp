@@ -1,4 +1,4 @@
-#include "jsonlite.h"
+#include "jsonlite/jsonlite.h"
 
 void setup() {
   const int JSON_DEPTH = 4;                                                   // Limitation of JSON depth
